@@ -8,7 +8,7 @@ Google Sheets con Apps Script.
 
 > **Sobre este repositorio:** el desarrollo real ocurrió en un **repositorio privado**, porque trabaja con datos reales de la inmobiliaria
 > y de sus clientes. Este repositorio público es la entrega: tiene el código de la primera versión, la evolución del proyecto y capturas
-> de la versión actual con datos ficticios. Sus commits son nuevos: no reproducen la historia ni las fechas del repositorio privado. Las
+> de la versión actual con las propiedades publicadas en el sitio y datos ficticios. Sus commits son nuevos: no reproducen la historia ni las fechas del repositorio privado. Las
 > fechas reales de cada cambio están en [`evolucion/`](evolucion/).
 
 ## Qué hace
@@ -43,7 +43,7 @@ Google Sheets con Apps Script.
   - Al ingresar se aceptan los Términos y Condiciones de Uso y la Política de Privacidad.
 - **Datos:** las propiedades son las publicadas en el sitio de la inmobiliaria; personas, contratos, recibos e importes son ficticios.
   - «Actualizar desde WordPress simulado» agrega cambios ficticios: cambios de precio, un aviso nuevo inventado y una baja.
-  - Las capturas de este repositorio se tomaron en una base local con propiedades inventadas.
+  - Las capturas de este repositorio muestran lo mismo: las propiedades reales publicadas en el sitio, y todo lo demás ficticio.
   - Cada pantalla de la demo tiene una **guía** («Ver») que explica qué muestra y qué se puede probar.
 - **Recorrido sugerido:**
   1. **Hoy**: el resumen del día.
@@ -113,7 +113,7 @@ El detalle está en:
 |---|---|
 | [`v1-apps-script/`](v1-apps-script/) | El código de la primera versión (Apps Script). La URL del export de WordPress está reemplazada por un marcador. |
 | [`evolucion/`](evolucion/) | Historial de versiones, decisiones y pull requests. |
-| [`capturas/`](capturas/) | Capturas de la v2 en escritorio y celular, con datos ficticios, y su [índice](capturas/indice.md). |
+| [`capturas/`](capturas/) | Capturas de la v2 en escritorio y celular: las propiedades reales publicadas en el sitio, y todo lo demás ficticio. Con su [índice](capturas/indice.md). |
 
 El informe del trabajo se agrega en PDF más adelante.
 
