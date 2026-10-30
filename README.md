@@ -113,6 +113,7 @@ El detalle está en:
 |---|---|
 | [`v1-apps-script/`](v1-apps-script/) | El código de la primera versión (Apps Script). La URL del export de WordPress está reemplazada por un marcador. |
 | [`evolucion/`](evolucion/) | Historial de versiones, decisiones y pull requests. |
+| [`prompts/`](prompts/) | Resúmenes de los chats con IA (ChatGPT y Claude): qué se hizo, quién decidió qué, los pedidos más importantes y qué salió mal. Sin nombres de personas ni datos reales. Con su [índice](prompts/README.md). |
 | [`capturas/`](capturas/) | Capturas de la v2 en escritorio y celular: las propiedades reales publicadas en el sitio, y todo lo demás ficticio. Con su [índice](capturas/indice.md). |
 
 El informe del trabajo se agrega en PDF más adelante.
