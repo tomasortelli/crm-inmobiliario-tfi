@@ -114,8 +114,19 @@ El detalle está en:
 | [`v1-apps-script/`](v1-apps-script/) | El código de la primera versión (Apps Script). La URL del export de WordPress está reemplazada por un marcador. |
 | [`evolucion/`](evolucion/) | Historial de versiones, decisiones y pull requests. |
 | [`prompts/`](prompts/) | Resúmenes de los chats con IA (ChatGPT y Claude): qué se hizo, quién decidió qué, los pedidos más importantes y qué salió mal. Sin nombres de personas ni datos reales. Con su [índice](prompts/README.md). |
+| [`informe/`](informe/) | El informe del trabajo, en PDF: [`TFI_Tomas_Ortelli.pdf`](informe/TFI_Tomas_Ortelli.pdf). |
 | [`capturas/`](capturas/) | Capturas de la v2 en escritorio y celular: las propiedades reales publicadas en el sitio, y todo lo demás ficticio. Con su [índice](capturas/indice.md). |
 
-El informe del trabajo se agrega en PDF más adelante.
+**El informe del trabajo:** [`informe/TFI_Tomas_Ortelli.pdf`](informe/TFI_Tomas_Ortelli.pdf).
 
 **Qué no hay:** el código de producción de la v2, datos reales, credenciales ni configuración de los servidores.
+
+## El código de producción
+- **Dónde está:** el código de producción de la v2 está en un **repositorio privado**, porque va a manejar datos reales y tiene
+  documentación interna.
+- **Docentes:** los docentes de la diplomatura tienen acceso por invitación.
+- **Para pedir acceso:** quien quiera verlo puede pedírmelo, indicando su usuario de GitHub o su correo.
+
+---
+
+© 2026 Tomás Ortelli. Todos los derechos reservados.
